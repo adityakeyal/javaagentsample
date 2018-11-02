@@ -1,0 +1,4 @@
+com\javaagent\example\HelloWorld$1.class
+com\javaagent\example\MyAdvice.class
+com\javaagent\example\MyExitAdvice.class
+com\javaagent\example\HelloWorld.class
